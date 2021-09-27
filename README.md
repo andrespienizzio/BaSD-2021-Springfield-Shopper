@@ -1,6 +1,6 @@
 ## RADIUM ROCKET - BECOME A SOFTWARE DEVELOPER
 
-#### SEMANA N° 1
+### SEMANA N° 1
 
 **PROBLEMATICA**
 
@@ -23,7 +23,7 @@ utilizada tenia videos e imagenes, se crearon las carpetas respectivas para esto
 
 ---
 
-#### SEMANA N° 2
+### SEMANA N° 2
 
 **DESCRIPCION**
 
@@ -46,3 +46,5 @@ https://theconversation.com/why-congress-should-let-everyone-deduct-charitable-g
 Para esta semana se crearon un archivo html nuevo correspondiente a la segunda noticia "why-congress-week-02.html",
 ademas se agregaron fuentes correspondientes a esta noticia (carpeta "fonts") y tres archivos .css, correspondientes
 a las nuevas fuentes "fonts.css", a la hoja de estilo "styles.css" y un normalizador de estilo ("normalize.css").
+
+---
