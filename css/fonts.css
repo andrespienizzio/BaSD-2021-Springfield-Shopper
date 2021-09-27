@@ -1,0 +1,49 @@
+@font-face {
+    font-family:"Helvetica-Neue-medium";
+    src: url("fonts/Helvetica-Neue-Font/Helvetica\ Neue\ Medium\ Extended/");
+  }
+
+@font-face {
+    font-family:"Helvetica-Neue-light";
+    src: url("fonts/Helvetica-Neue-Font/Helvetica\ Neue\ UltraLight/");
+  }
+
+@font-face {
+    font-family:"Helvetica-Neue-bold";
+    src: url("fonts/Helvetica-Neue-Font/HelveticaNeue\ Bold.ttf");
+  }
+
+@font-face {
+    font-family:"Libre-Baskerville-Bold";
+    src: url("fonts/Libre_Baskerville/LibreBaskerville-Bold.ttf");
+  }
+
+@font-face {
+    font-family:"Libre-Baskerville-Italic";
+    src: url("fonts/Libre_Baskerville/LibreBaskerville-Italic.ttf");
+  }
+
+@font-face {
+    font-family:"Libre-Baskerville-Regular";
+    src: url("fonts/Libre_Baskerville/LibreBaskerville-Regular.ttf");
+  }
+
+@font-face {
+    font-family:"Montserrat-Bold";
+    src: url("fonts/Montserrat/Montserrat-Bold.ttf");
+}
+
+@font-face {
+    font-family:"Montserrat-Medium";
+    src: url("fonts/Montserrat/Montserrat-Medium.ttf");
+}
+
+@font-face {
+    font-family:"Noto-Sans";
+    src: url("fonts/Noto_Sans/NotoSans-Regular.ttf");
+}
+
+@font-face {
+    font-family:"Noto-Sans-Bold";
+    src: url("fonts/Noto_Sans/NotoSans-Bold.ttf");
+}
