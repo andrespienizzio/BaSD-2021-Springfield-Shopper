@@ -382,3 +382,11 @@ aside p, h2 {
     align-self: center;
     padding-left: 30%;
 }
+
+#springfield-shopper {
+    font-family: "Helvetica-Neue-medium", Helvetica, sans-serif;
+    font-size: 18px;
+    text-align: center;
+    border-top: 3px solid #f8f8f8;
+    margin-top: 10px;
+}
