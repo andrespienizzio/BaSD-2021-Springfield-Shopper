@@ -50,6 +50,6 @@ a las nuevas fuentes "fonts.css", a la hoja de estilo "styles.css" y un normaliz
 **COMENTARIOS-IMPORTANTE**
 
 Al ser una primera aproximacion a CSS los resultados no son perfectos, sin embargo, se intento replicar
-en la medida de los escasos conocimientos del momento una web lo mas parecia a la original.
+en la medida de lo posible con los escasos conocimientos del momento una web lo mas parecia a la original.
 
 ---
