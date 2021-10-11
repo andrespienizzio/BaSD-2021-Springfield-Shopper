@@ -43,8 +43,13 @@ https://theconversation.com/why-congress-should-let-everyone-deduct-charitable-g
 
 **REPOSITORIO**
 
-Para esta semana se crearon un archivo html nuevo correspondiente a la segunda noticia "why-congress-week-02.html",
+Para esta semana se creo un archivo html nuevo correspondiente a la segunda noticia "why-congress-week-02.html",
 ademas se agregaron fuentes correspondientes a esta noticia (carpeta "fonts") y tres archivos .css, correspondientes
 a las nuevas fuentes "fonts.css", a la hoja de estilo "styles.css" y un normalizador de estilo ("normalize.css").
+
+**COMENTARIOS-IMPORTANTE**
+
+Al ser una primera aproximacion a CSS los resultados no son perfectos, sin embargo, se intento replicar
+en la medida de los escasos conocimientos del momento una web lo mas parecia a la original.
 
 ---
