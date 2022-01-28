@@ -1,3 +1,5 @@
+<h1 align="center">This repository corresponds to the work developed during week 1 & 2 of the BaSD-2021 course</h1>
+
 ## RADIUM ROCKET - BECOME A SOFTWARE DEVELOPER
 
 ### SEMANA N° 1
